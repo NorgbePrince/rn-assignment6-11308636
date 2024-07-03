@@ -20,6 +20,6 @@ Remove from Cart: Updates and stores the cart state in AsyncStorage when items a
 Load Cart on Startup: Retrieves cart data from AsyncStorage when the app initializes.
 
 ### Screenshots
-![Checkout with dresses](/ShoppingApp/images/photo_2024-07-03_21-48-26.jpg)
-![Home](/ShoppingApp/images/photo_2024-07-03_21-48-42.jpg)
-![Checkout without dresses](/ShoppingApp/images/photo_2024-07-03_21-52-49.jpg)
+![photo_2024-07-03_21-48-26](/ShoppingApp/images/photo_2024-07-03_21-48-26.jpg)
+![photo_2024-07-03_21-48-42](/ShoppingApp/images/photo_2024-07-03_21-48-42.jpg)
+![photo_2024-07-03_21-52-49](/ShoppingApp/images/photo_2024-07-03_21-52-49.jpg)
